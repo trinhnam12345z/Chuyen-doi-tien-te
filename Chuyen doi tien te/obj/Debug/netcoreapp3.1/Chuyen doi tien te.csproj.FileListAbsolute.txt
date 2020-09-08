@@ -1,0 +1,12 @@
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\bin\Debug\netcoreapp3.1\Chuyen doi tien te.exe
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\bin\Debug\netcoreapp3.1\Chuyen doi tien te.deps.json
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\bin\Debug\netcoreapp3.1\Chuyen doi tien te.runtimeconfig.json
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\bin\Debug\netcoreapp3.1\Chuyen doi tien te.runtimeconfig.dev.json
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\bin\Debug\netcoreapp3.1\Chuyen doi tien te.dll
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\bin\Debug\netcoreapp3.1\Chuyen doi tien te.pdb
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\obj\Debug\netcoreapp3.1\Chuyen doi tien te.AssemblyInfoInputs.cache
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\obj\Debug\netcoreapp3.1\Chuyen doi tien te.AssemblyInfo.cs
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\obj\Debug\netcoreapp3.1\Chuyen doi tien te.csproj.CoreCompileInputs.cache
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\obj\Debug\netcoreapp3.1\Chuyen doi tien te.dll
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\obj\Debug\netcoreapp3.1\Chuyen doi tien te.pdb
+E:\BT C#\Chuyen doi tien te\Chuyen doi tien te\obj\Debug\netcoreapp3.1\Chuyen doi tien te.genruntimeconfig.cache
