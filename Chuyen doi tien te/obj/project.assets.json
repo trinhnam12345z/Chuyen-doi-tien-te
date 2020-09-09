@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BT C#\\Chuyen doi tien te\\Chuyen doi tien te\\Chuyen doi tien te.csproj",
+      "projectUniqueName": "E:\\C#\\Chuyen-doi-tien-te\\Chuyen doi tien te\\Chuyen doi tien te.csproj",
       "projectName": "Chuyen doi tien te",
-      "projectPath": "E:\\BT C#\\Chuyen doi tien te\\Chuyen doi tien te\\Chuyen doi tien te.csproj",
+      "projectPath": "E:\\C#\\Chuyen-doi-tien-te\\Chuyen doi tien te\\Chuyen doi tien te.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\BT C#\\Chuyen doi tien te\\Chuyen doi tien te\\obj\\",
+      "outputPath": "E:\\C#\\Chuyen-doi-tien-te\\Chuyen doi tien te\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

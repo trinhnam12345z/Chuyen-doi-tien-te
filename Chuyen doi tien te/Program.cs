@@ -14,8 +14,13 @@ namespace Chuyen_doi_tien_te
             int tigia = int.Parse(Console.ReadLine());
             Console.WriteLine("Nhập USD :");
             int usd = int.Parse(Console.ReadLine());
-            int vnd = tigia * usd ;
-            Console.WriteLine("VNĐ là : {0} Vnđ",vnd);
+            doitien(tigia, usd);
+        }
+        static int doitien(int tigia, int usd)
+        {
+            int vnd = tigia * usd;
+            Console.WriteLine("USD => VNĐ là : {0} Vnđ", vnd);
+            return vnd;
         }
     }
 }
